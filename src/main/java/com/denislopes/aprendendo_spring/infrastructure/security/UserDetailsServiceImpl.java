@@ -1,7 +1,6 @@
 package com.denislopes.aprendendo_spring.infrastructure.security;
 
 
-
 import com.denislopes.aprendendo_spring.infrastructure.entity.Usuario;
 import com.denislopes.aprendendo_spring.infrastructure.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
